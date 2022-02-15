@@ -3,11 +3,11 @@
 \# Frontend developer
 \# Atualmente aprendendo mais sobre Vue JS e Websocket
 
-<div style="display: flex; flex-wrap: no-wrap">
-    <img height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=flintdl&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=flintdl&layout=compact&langs_count=3&theme=dark" />
+<div>
+   <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=flintdl&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=flintdl&theme=dark&&layout=compact" />
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Diego-vuejs" height="30" width="40"
