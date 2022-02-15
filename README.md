@@ -26,6 +26,8 @@
 
 ##
 
+![Snake animation](https://github.com/flintdl/flintdl/blob/output/github-contribution-grid-snake.svg)
+
 <div>
     <a href="https://instagram.com/diegojb15" target="_blank"><img
             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
@@ -42,5 +44,4 @@
     <a href="mailto:duartediego.contato@outlook.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-
 </div>
